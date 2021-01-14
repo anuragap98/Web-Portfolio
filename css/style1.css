@@ -1,0 +1,25 @@
+.portfolio .portfolio-item .portfolio-info .icon .fa,
+.about .about-content .about-text h3 span{
+    color:#030d8f;
+}
+.aside .nav li a:hover,
+.aside .nav li a.active{
+	color: rgb(207, 206, 255);
+}
+.home .intro .social-links a{
+    background-color: #1c18ff;
+}
+.section-title h2::before,
+.section-title h2::after{
+    background-color: #dd0505;
+}
+.btn{
+    background-color: #228b22;
+}
+.about .timeline .circle-dot,
+.about .timeline .timeline-item::before,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after{
+	background-color: #D07CF8;
+} 
